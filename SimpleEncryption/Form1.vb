@@ -1,4 +1,5 @@
 ﻿Public Class frmEncryption
+    'This is a simple encryption tool
     Dim intMaxLength As Integer = 1024
     Dim chrCodeKeyArray(255) As Char
     Dim strKeyFileName As String
